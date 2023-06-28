@@ -15,6 +15,7 @@ and shows a green line, identifying the correct answer, and when we mark the cor
 for purpose developed Front-End.
 
 - Below we have a short instructional video, where we show an example of how the Question and Answer Game Quiz page works.
+
 <br></br>
 
 Video:
@@ -23,9 +24,10 @@ https://github.com/alexandre-souza10/perguntasrespostas.github.io/assets/7419652
 
 <br></br>
 
-## Languages ​​and tools used:
+## Languages ​​and Tools used:
 - HTML
 - Visual Studio Code
+
 <br></br>
 
 #### Author: 
