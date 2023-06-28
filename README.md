@@ -1,19 +1,20 @@
-<h1 align="left"> Jogo: Questionario</h1>
+<h1 align="left"> Game: Quiz </h1>
 
-#### Pagina Inicial do Projeto:
+### Project Home Page:
 ![Screenshot_1](https://github.com/alexandre-souza10/perguntasrespostas.github.io/assets/74196527/9824784f-0deb-4eaf-92e1-886e42eaaa2d)
 
-### Link de acesso ao Projeto: https://alexandre-souza10.github.io/perguntasrespostas.github.io/
+### Project access link: https://alexandre-souza10.github.io/perguntasrespostas.github.io/
 <br></br>
-## Descrição do projeto:
-- Nesse Projeto foi desenvolvido um pequeno Questionario , um Projeto Front-End, utilizando apenas o HTML para o seu desenvolvimento. Na Pagina temos algumas perguntas e respostas,
-ja pré - definidas em codigo. Cada pergunta ja tem uma resposta pré-defnidada que esta correta em codigo , ao marcarmos um resposta errada , o sistema nos mostra uma linha vermelha de erro, 
-e mostra uma linha verde, identificando a resposta correta, e ao marcarmos a resposta correta , o sistema identifica e nos mostra a linha verde informando que esta correto a resposta selecionada.
 
-- O projeto tem a funcionalidade de mostar um questionario configurado , com Perguntas e Respostas ja definidas em codigo , para mostrar os erros e acertos, de quem o utiliza, uma tela simpes , mas funcional
-para o proposito desenvolvido Front-End.
+## Project Description:
+- In this Project, a small Questionnaire was developed, a Front-End Project, using only HTML for its development. On the Page we have some questions and answers,
+already pre - defined in code. Each question already has a pre-defined answer that is correct in code, when we mark a wrong answer, the system shows us a red error line,
+and shows a green line, identifying the correct answer, and when we mark the correct answer, the system identifies and shows us the green line informing that the selected answer is correct.
 
-- A seguir temos um pequeno video instrucional, onde mostramos um exemplo de como funciona a pagina do Questionario de Perguntas e Respostas.
+- The project has the functionality of showing a configured questionnaire, with Questions and Answers already defined in code, to show the mistakes and successes, of those who use it, a simple but functional screen
+for purpose developed Front-End.
+
+- Below we have a short instructional video, where we show an example of how the Question and Answer Game Quiz page works.
 <br></br>
 
 Video:
@@ -21,11 +22,12 @@ Video:
 https://github.com/alexandre-souza10/perguntasrespostas.github.io/assets/74196527/7ab61384-4c37-4e8d-9aa3-6fcf0bf53b11
 
 <br></br>
-## Liguagens e ferramentas utilizadas
+
+## Languages ​​and tools used:
 - HTML
 - Visual Studio Code
 <br></br>
 
-#### Autor: 
+#### Author: 
 **Alexandre Souza**
 
