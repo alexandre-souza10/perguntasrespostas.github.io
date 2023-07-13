@@ -30,6 +30,6 @@ https://github.com/alexandre-souza10/perguntasrespostas.github.io/assets/7419652
 
 <br></br>
 
-#### Author: 
+#### Author:
 **Alexandre Souza**
 
